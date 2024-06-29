@@ -1,0 +1,315 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid red; */
+}
+.parent
+{
+    border: 2px solid red;
+}
+
+.bagroundimg
+{
+    background-image: url(../images/background/home-2-rev-slide-2.jpg);
+    /* background-color: black; */
+    width: 100%;
+   background-position: center;
+     background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.menu a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.icon
+{
+     font-family: "EB Garamond";
+    font-size: 25px;
+}
+
+.Solgan
+{
+    font-family: "EB Garamond";
+    font-size: 50px;
+    color: rgb(255, 255, 251);
+    text-align: center;  
+}
+
+.Solgan1
+{
+    font-family: "EB Garamond"; 
+    color: #D96B1A;
+    font-size: 35px;
+    line-height: 37px;
+}
+.parentpart2
+{
+    margin-top: 100px;
+}
+.parent2_1 
+{
+    /* border: 2px solid blue; */
+    width: 90%;
+    margin: 0 auto;
+    
+}
+.select
+{
+    border: none;
+    
+}
+.paretpart3
+{
+    background-color: antiquewhite;
+    margin-top: 100px;
+}
+.table1
+{
+    width: 90%;
+
+}
+.part3{
+    margin-top: 40px;
+}
+.parentpart4
+{
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.Solgan3
+{
+    font-family: "EB Garamond";
+    color: #D96B1A;
+    font-size: 46px;
+    
+    /* text-align: center; */
+}
+.parentpart5
+{
+    /* border: 2px solid red; */
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 25px;
+   
+   
+}
+.price
+{
+    width: 20%;
+    margin-top: 10px;
+    /* border: 2px solid blue; */
+    padding: 4px;
+
+
+}
+.name{
+    width: 80%;
+    color: #855043;
+    font-size: 30px;
+    font-family: "EB Garamond";  
+   
+}
+.name1
+{
+    width: 80%;
+}
+.pricecolor
+{
+    color: #876a63;
+}
+.new
+{
+    /* border: 2px solid black; */
+    font-size: 15px;
+    background-color: #D96B1A;
+    padding: 1px 9px 0px ;
+    height: 26px;
+    color: white;      
+}
+.solgan_author
+{
+    font-size: 20px;
+    color: #855043;
+}
+.solgan_author1
+{
+    font-size: 17px;
+    color: #8A7C78;
+}
+.part8 
+{
+    background-color: #FFF7e8;
+}
+.menuicon
+{
+    width: 33%;
+}
+.menuicon a
+{
+   text-decoration: none;
+   color: white;
+}
+.cafename
+{
+    font-size: 30px;
+    font-family: "EB Garamond";
+}
+.name2
+{
+    font-size: 25px;
+    color:#855043;
+    font-family: "EB Garamond";
+}
+.menu1 
+{
+    width: 60px;
+}
+.post
+{
+    font-size: 48px;   
+}
+.post1
+{
+    font-size: 17px;   
+}
+
+.places a{
+    text-decoration: none;
+    color: #8a7c78;
+    font-size: 12px;
+    font-family: Jost,sans-serif;
+    letter-spacing: .1em;
+   
+}
+
+.places1 a{
+    text-decoration: none;
+    color: #855043;  
+}
+.font1
+{
+    font-size: 30px; 
+    font-family: "EB Garamond";
+}
+.news
+{
+    background-color: #fffbf3;  
+}
+.list a{
+    text-decoration: none;
+    color: #8a7c78;
+}
+.list{
+    list-style-type: none;
+}
+.deatils
+{
+    font-size: 25px;
+    font-family: "EB Garamond";
+    color: #855043; 
+}
+.image
+{
+    width: 20%;  
+  
+}
+.footer
+{
+    font-size: 12px;
+    color:#8A7C78   
+}
+.footer a{
+    text-decoration: none;
+    color:#8A7C78 
+}
+.daycolor
+{
+    
+    color: #8a7c78;
+    font-family: "EB Garamond";
+    
+}
+.star
+{
+    color: #D96B1A;
+    font-size: 25px;
+}
+.img992
+{
+    width: 40%;
+}
+.nav
+{
+    color: white;
+}
+.nav a{
+    color: white;  
+}
+.navlist
+{
+    list-style-type: none;
+    width: 150%;
+}
+.navlist a{
+    color: white;
+}
+.button1
+{
+    background-color: #D96B1A;
+    color: white;  
+    margin-bottom: 50px;   
+}
+.b1 a{
+    color: white;
+   
+}
+.sol-1
+{
+    margin-top: 20px;
+}
+.quote
+{
+    margin-top: 90px;
+}
+
+.button2 
+{
+    color:#D96B1A;
+    font-size: 15px;
+}
+.button2:hover
+{
+    color:#D96B1A;
+}
+.p992
+{
+    padding: 0px;
+}
+.menu1
+{
+    list-style-type: none;
+}
+@media(min-width:992px)
+{
+    .lgmargin
+    {
+        margin-top: 160px;
+    }
+    .bagroundimg
+    {
+        height: 700px;
+    }
+    .distance
+    {
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 130px;
+    }
+}
